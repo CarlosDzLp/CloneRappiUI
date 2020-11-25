@@ -1,0 +1,17 @@
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/bin/Debug/netstandard2.0/CloneRappiUI.deps.json
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/bin/Debug/netstandard2.0/CloneRappiUI.dll
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/bin/Debug/netstandard2.0/ref/CloneRappiUI.dll
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/bin/Debug/netstandard2.0/CloneRappiUI.pdb
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.csprojAssemblyReference.cache
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/Views/DetailPage.xaml.g.cs
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/Views/MasterPage.xaml.g.cs
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/Views/MyBasketPage.xaml.g.cs
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.AssemblyInfoInputs.cache
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.AssemblyInfo.cs
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.csproj.CoreCompileInputs.cache
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.csproj.Fody.CopyLocal.cache
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.dll
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/ref/CloneRappiUI.dll
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI/obj/Debug/netstandard2.0/CloneRappiUI.pdb

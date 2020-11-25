@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{94FA01CB-3A9B-4E1D-BF0D-9E00CAFE4158}|Default">
+  <MonoDevelop.Ide.ItemProperties.CloneRappiUI.Android FirstBuild="True" PreferredExecutionTarget="Android.R58M71K1VLF" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CloneRappiUI.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5D676694-F908-4133-BE6B-87AF545F65B7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
