@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Xamarin.Forms;
 
 namespace CloneRappiUI.Droid
 {
@@ -14,6 +15,7 @@ namespace CloneRappiUI.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            Forms.SetFlags("RadioButton_Experimental");
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 

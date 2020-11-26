@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Grid x:Class="CloneRappiUI.Views.Template.CategoryViewTemplate"
+      xmlns="http://xamarin.com/schemas/2014/forms"
+      xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+      Padding="20,20"
+      BackgroundColor="#E6EAF1">
+    <Label FontAttributes="Bold"
+           FontSize="24"
+           HorizontalOptions="Start"
+           Text="{Binding Name}"
+           TextColor="#582D86" />
+</Grid>

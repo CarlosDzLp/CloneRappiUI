@@ -48,14 +48,21 @@
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/bin/iPhoneSimulator/Debug/CloneRappiUI.pdb
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.2/actool/_PartialAppManifest.items
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.2/actool/_BundleResourceWithLogicalName.items
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.2/coremlc/_PartialAppManifest.items
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.2/coremlc/_BundleResourceWithLogicalName.items
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.2/optimized/
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/CloneRappiUI.iOS.csprojAssemblyReference.cache
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/CloneRappiUI.iOS.csproj.CoreCompileInputs.cache
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/CloneRappiUI.iOS.csproj.CopyComplete
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/CloneRappiUI.iOS.exe
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/CloneRappiUI.iOS.pdb
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/actool/_PartialAppManifest.items
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/actool/_BundleResourceWithLogicalName.items
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/coremlc/_PartialAppManifest.items
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/cosechacat.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/hamburguercat.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/pizzacat.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/sandwichcat.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/sushicat.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/tacoscat.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/person.png

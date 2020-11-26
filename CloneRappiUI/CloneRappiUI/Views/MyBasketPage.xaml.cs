@@ -12,5 +12,10 @@ namespace CloneRappiUI.Views
             InitializeComponent();
             this.BindingContext = new MyBasketPageViewModel();
         }
+
+        void TapGestureRecognizer_Tapped(System.Object sender, System.EventArgs e)
+        {
+            App.Current.MainPage.Navigation.PopModalAsync(true);
+        }
     }
 }
