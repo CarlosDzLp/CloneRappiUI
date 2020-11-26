@@ -1,3 +1,2 @@
 # CloneRappiUI
-
-<img source="https://github.com/CarlosDzLp/CloneRappiUI/blob/main/CloneRappiUI.gif" alt=""/>
+<img width="350" src="https://github.com/CarlosDzLp/CloneRappiUI/blob/main/CloneRappiUI.gif" />
