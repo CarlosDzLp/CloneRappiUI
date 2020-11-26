@@ -64,5 +64,5 @@
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/sandwichcat.png
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/sushicat.png
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/tacoscat.png
-/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/
 /Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/person.png
+/Users/carlosdiazlopez/CloneRappiUI/CloneRappiUI/CloneRappiUI.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.2/optimized/

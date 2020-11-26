@@ -74,15 +74,6 @@ namespace CloneRappiUI.ViewModels
                     Name = "Tacos",
                     Url = "tacoscat"
                 });
-                ListCategory.Add(new CategoryModel
-                {
-                    TextColor = Color.FromHex("#CED2D9"),
-                    BackgroundColor = Color.White,
-                    Count = 2,
-                    Id = 6,
-                    Name = "Tacos",
-                    Url = "tacoscat"
-                });
             }
             catch (Exception ex)
             {

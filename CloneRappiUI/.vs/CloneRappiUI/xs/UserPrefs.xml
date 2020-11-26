@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{94FA01CB-3A9B-4E1D-BF0D-9E00CAFE4158}|Default">
-  <MonoDevelop.Ide.ItemProperties.CloneRappiUI.Android FirstBuild="True" PreferredExecutionTarget="Android.R58M71K1VLF" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CloneRappiUI.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.R58M71K1VLF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloneRappiUI/Views/MasterPage.xaml">
+    <Files>
+      <File FileName="CloneRappiUI/Views/MasterPage.xaml" Line="22" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CloneRappiUI" expanded="True">
-            <Node name="CloneRappiUI.iOS" expanded="True">
-              <Node name="AppDelegate.cs" selected="True" />
+            <Node name="CloneRappiUI" expanded="True">
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

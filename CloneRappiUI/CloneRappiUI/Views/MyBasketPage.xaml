@@ -75,6 +75,12 @@
                                        CornerRadius="10"
                                        HasShadow="False"
                                        VerticalOptions="Center">
+                                    <Frame.Padding>
+                                        <OnPlatform x:TypeArguments="Thickness">
+                                            <On Platform="Android" Value="15,0" />
+                                            <On Platform="iOS" Value="10" />
+                                        </OnPlatform>
+                                    </Frame.Padding>
                                     <StackLayout>
                                         <Label FontSize="18"
                                                Text="-"
@@ -112,6 +118,12 @@
                                        CornerRadius="10"
                                        HasShadow="False"
                                        VerticalOptions="Center">
+                                    <Frame.Padding>
+                                        <OnPlatform x:TypeArguments="Thickness">
+                                            <On Platform="Android" Value="15,0" />
+                                            <On Platform="iOS" Value="10" />
+                                        </OnPlatform>
+                                    </Frame.Padding>
                                     <StackLayout>
                                         <Label FontSize="18"
                                                Text="-"
@@ -147,13 +159,11 @@
                                 </CollectionView.ItemsLayout>
                                 <CollectionView.ItemTemplate>
                                     <DataTemplate>
-                                        <Grid BackgroundColor="White"
-                                              HeightRequest="70"
-                                              VerticalOptions="CenterAndExpand">
+                                        <Grid BackgroundColor="White" VerticalOptions="CenterAndExpand">
                                             <pancakeview:PancakeView Padding="15"
                                                                      BackgroundColor="{Binding BackgroundColor}"
                                                                      CornerRadius="10"
-                                                                     HeightRequest="70"
+                                                                     HeightRequest="80"
                                                                      VerticalOptions="Center">
                                                 <pancakeview:PancakeView.Shadow>
                                                     <pancakeview:DropShadow BlurRadius="3"

@@ -71,7 +71,14 @@
                                                     Offset="0,2"
                                                     Color="Gray" />
                         </pancakeview:PancakeView.Shadow>
-                        <Entry HeightRequest="30" Placeholder="Que quieres comer hoy?" />
+                        <Entry Placeholder="Que quieres comer hoy?">
+                            <Entry.HeightRequest>
+                                <OnPlatform x:TypeArguments="x:Double">
+                                    <On Platform="iOS" Value="30" />
+                                    <On Platform="Android" Value="40" />
+                                </OnPlatform>
+                            </Entry.HeightRequest>
+                        </Entry>
                     </pancakeview:PancakeView>
                 </Grid>
             </StackLayout>
@@ -113,14 +120,17 @@
                     </CollectionView.ItemsLayout>
                     <CollectionView.ItemTemplate>
                         <DataTemplate>
-                            <Grid BackgroundColor="White"
-                                  HeightRequest="70"
-                                  VerticalOptions="CenterAndExpand">
+                            <Grid BackgroundColor="White" VerticalOptions="CenterAndExpand">
                                 <pancakeview:PancakeView Padding="15"
                                                          BackgroundColor="{Binding BackgroundColor}"
                                                          CornerRadius="10"
-                                                         HeightRequest="70"
                                                          VerticalOptions="Center">
+                                    <pancakeview:PancakeView.HeightRequest>
+                                        <OnPlatform x:TypeArguments="x:Double">
+                                            <On Platform="iOS" Value="70" />
+                                            <On Platform="Android" Value="80" />
+                                        </OnPlatform>
+                                    </pancakeview:PancakeView.HeightRequest>
                                     <pancakeview:PancakeView.Shadow>
                                         <pancakeview:DropShadow BlurRadius="3"
                                                                 Offset="0,2"
